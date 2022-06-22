@@ -1,5 +1,6 @@
-###  Hello , I'm André Cardoso WELCOME to my portfolio 👋
-  ##
+###  
+  <h1 align="center">Hi 👋, I'm André Cardoso WELCOME to my portfolio</h1>
+<h3 align="center">A developer with creative ideas </h3>
 <img  src="https://user-images.githubusercontent.com/33385274/174922751-bb0924a6-f31f-4ce8-aeb1-e1ba6b3cf98a.png">
 
 <div  align="center">
@@ -8,8 +9,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredarc&layout=compact&langs_count=7&theme=chartreuse-dark">
 </div>
   <br>
-  <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
   
   ![Snake animation](https://github.com/andredarc/andredarc/blob/output/github-contribution-grid-snake.svg)
  
