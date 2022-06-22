@@ -10,8 +10,8 @@
   <br>
   <div>
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/andr%C3%A9-cardoso-718592a7/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-     ![snake gif](https://github.com/andredarc/andredarc/blob/output/github-contribution-grid-snake.svg)
+    ##
+         ![snake gif](https://github.com/andredarc/andredarc/blob/output/github-contribution-grid-snake.gif)
   </div>
 
 
